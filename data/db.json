@@ -1,0 +1,19 @@
+{
+    "items":[
+        {
+            "id":1,
+            "checked":false,
+            "item":"hugues"
+        },
+        {
+            "id":2,
+            "checked":false,
+            "item":"pizza"
+        },
+        {
+            "id":3,
+            "checked":false,
+            "item":"ishema"
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 const SearchItem = ({ search, setSearch }) => {
     return (
         <form className="searchForm" onSubmit={(e) => e.preventDefault()}>
-            <label htmlFor="'search">Search</label>
+            <label htmlFor="search">Search</label>
             <input
                 id="search"
                 type="text"
@@ -15,4 +15,4 @@ const SearchItem = ({ search, setSearch }) => {
     )
 }
 
-export default SearchItem
+export default SearchItem;
